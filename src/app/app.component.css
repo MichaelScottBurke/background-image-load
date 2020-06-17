@@ -5,6 +5,7 @@
 
 ::ng-deep html {
   background-image: url('https://raw.githubusercontent.com/MichaelScottBurke/background-image-load/master/src/assets/sign-in-background.png');
+  background-position: center center;
 }
 
 .login-panel {
